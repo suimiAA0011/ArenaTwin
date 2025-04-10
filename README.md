@@ -24,14 +24,6 @@
 
 ---
 
-## لقطات شاشة (Screenshots)
-
-| الشاشة الرئيسية (Fan Home) | تجربة AR | وضع VR |
-|-----------------------------|----------|--------|
-| ![Fan Home](screenshots/fan_home.png) | ![AR Experience](screenshots/ar_experience.png) | ![VR Experience](screenshots/vr_experience.png) |
-
----
-
 ## متطلبات النظام (System Requirements)
 
 - **نظام التشغيل:** iOS 15.0 أو أحدث.
